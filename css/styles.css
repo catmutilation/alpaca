@@ -65,7 +65,7 @@ text-align: center;
  }
 
 
-/* #pagetop {
+#pagetop {
     position: fixed;
     right: 0;
     bottom: 0;
@@ -100,7 +100,7 @@ text-align: center;
     transform: rotate(-45deg);
     border-top: 1px solid #FFF;
     border-right: 1px solid #FFF;
-} */
+}
 
 .wrappergrid {
    display: grid;
@@ -141,7 +141,12 @@ body {
    margin: 0 auto;   
    width: 100%;
   }   
-
+  .alpaca3 img {
+    margin-top: 20px;  
+    margin-bottom: 20px;
+    margin: 0 auto;   
+    width: 100%;
+   }   
   #pagetop a {
     width: 45px;
     height: 45px;
