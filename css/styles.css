@@ -4,7 +4,14 @@ font-family:"M PLUS Rounded 1c",Verdana, sans-serif;
 background-color: antiquewhite; 
 text-align: center;
 }  
-
+.alpaca2 img {
+  margin-top: 20px;  
+  margin-bottom: 20px;
+  margin: 0 auto;   
+  width: 400px;
+  display: flex;
+  justify-content: center;
+ }   
 .txet{
  margin-top: 30px;  
  margin-bottom: 30px;
